@@ -18,5 +18,3 @@ default - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
 list of all examples -
 https://gist.github.com/michaelx/316dc4882f125a8325150e4e2fa9edd6
-
-this file on repository is adblock youtube
